@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-red-50/10;
+}
+.bg-red {
+  @apply bg-[#EE2C4F];
+}
+
+.bg-gray {
+  @apply bg-[#888888];
+}
+
+.text-light-gray {
+  @apply bg-[#D9D9D9];
+}
+
+.border-red {
+  @apply border-[#EE2C4F];
+}
